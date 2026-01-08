@@ -61,17 +61,9 @@ HTML, CSS, and JavaScript while continuously improving my technical skills.
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Beginner-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-Beginner-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<hr/>
-
-<h2>📚 Academic Projects</h2>
-
-<ul>
-  <li>📘 Personal Portfolio Website (HTML & CSS)</li>
-  <li>🧮 Simple Calculator (JavaScript)</li>
-  <li>📝 Student Information Page</li>
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?<li>📘 Personal Portfolio Website (HTML & CSS)</li>
+<li>🧮 Simple Calculator (JavaScript)</li>
+<li>📝 Student Information Page</li>
 </ul>
 
 <hr/>
@@ -88,14 +80,6 @@ function studentProfile() {
 console.log(studentProfile());
 </code>
 </pre>
-
-<hr/>
-
-<h2>📊 GitHub Student Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabatatrisha-crypto&show_icons=true&theme=tokyonight"/>
-</p>
 
 <hr/>
 
@@ -130,3 +114,4 @@ ul {
   padding-left: 0;
 }
 </style>
+
