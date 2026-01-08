@@ -9,7 +9,7 @@
 <h2>🎓 Student Profile</h2>
 
 <p>
-I am a <b>19-year-old Information Technology student</b> with a strong interest in
+I am a <b>19-year-old Computer Science student</b> with a strong interest in
 <b>web development</b>. I enjoy learning how to design and build websites using
 HTML, CSS, and JavaScript while continuously improving my technical skills.
 </p>
@@ -97,21 +97,4 @@ responsive websites while continuing my education and gaining real-world experie
 <p align="center">
   <i>"Learning today, building tomorrow."</i>
 </p>
-
-<style>
-h1, h2 {
-  font-family: Arial, sans-serif;
-  color: #1e3a8a;
-}
-
-p, li {
-  font-size: 15px;
-  line-height: 1.7;
-}
-
-ul {
-  list-style: none;
-  padding-left: 0;
-}
-</style>
 
